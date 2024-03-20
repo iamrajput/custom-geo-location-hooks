@@ -1,4 +1,4 @@
-# geo-location
+# geo-location-hook
 
 A ReactJS hook to get the geo-location of the users.
 
@@ -22,7 +22,7 @@ yarn add geo-location-hook
 
 ```javascript
 import React from 'react';
-import useGeoLocation from 'geo-location-hook';
+import {useGeoLocation} from 'geo-location-hook';
 
 const MyComponent = () => {
   const { loading, coordinates, error } = useGeoLocation();
