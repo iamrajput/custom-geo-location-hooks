@@ -1,5 +1,5 @@
 {
-  "name": "geo-location",
+  "name": "geo-location-hook",
   "version": "1.0.0",
   "type": "module",
   "description": "This is a custom hook for getting the geolocation of the user",
@@ -11,7 +11,9 @@
   "keywords": [
     "react",
     "hooks",
-    "custom-hook"
+    "custom-hook",
+    "npm",
+    "geo-location"
   ],
   "author": "ATUL KUMAR SINGH",
   "license": "ISC",
