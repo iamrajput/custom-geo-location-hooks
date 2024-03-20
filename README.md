@@ -25,9 +25,9 @@ import React from 'react';
 import useGeoLocation from 'geo-location-hook';
 
 const MyComponent = () => {
-  const { loaded, coordinates, error } = useGeoLocation();
+  const { loading, coordinates, error } = useGeoLocation();
 
-  if (!loaded) {
+  if (!loading) {
     return <div>Loading...</div>;
   }
 
@@ -37,7 +37,7 @@ const MyComponent = () => {
 
   return (
     <div>
-      Latitude: {coordinates.lat}, Longitude: {coordinates.lng}
+      Latitude: {coordinates.latitude}, Longitude: {coordinates.longitude}
     </div>
   );
 };
