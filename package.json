@@ -17,6 +17,13 @@
   ],
   "author": "ATUL KUMAR SINGH",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamrajput/custom-geo-location-hooks"
+  },
+  "bugs": {
+    "url": "https://github.com/iamrajput/custom-geo-location-hooks/issues"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
