@@ -7,9 +7,9 @@ Liked it? You can show your support with a STAR(⭐).
 
 
 🔧 Features:
-  ⭐ -Retrieves the user's current coordinates (latitude and longitude) using the Geolocation API.
-  ⭐ -Handles cases where geolocation is not supported or the user denies permission.
-  ⭐ -Returns a state object with loading status , coordinates and error, making it easy to manage location data in your components.
+  ⭐ - Retrieves the user's current coordinates (latitude and longitude) using the Geolocation API.
+  ⭐ - Handles cases where geolocation is not supported or the user denies permission.
+  ⭐ - Returns a state object with loading status , coordinates and error, making it easy to manage location data in your components.
 
 
 ## How to use it?
