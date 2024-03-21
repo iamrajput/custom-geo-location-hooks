@@ -1,6 +1,6 @@
 {
   "name": "geo-location-hook",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "module",
   "description": "This is a custom hook for getting the geolocation of the user",
   "main": "dist/index.js",
