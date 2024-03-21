@@ -1,4 +1,4 @@
-# geo-location-hook
+# GeolocateMe
 
 A ReactJS hook to get the geo-location of the users.
 
